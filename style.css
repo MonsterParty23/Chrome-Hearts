@@ -176,10 +176,7 @@ body{
     box-shadow: 20px 20px 34px rgba(0,0,0,0.03);
     border: 1px solid #cce7d0;
     border-radius: 4px;
-    margin: 15px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    margin: 15px 0;
 }
 
 #feature .fe-box:hover{
